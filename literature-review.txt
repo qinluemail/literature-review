@@ -10,3 +10,6 @@ Paper 2
 Paper 3
 Paper 4
 
+Paper 7
+Paper 8
+
